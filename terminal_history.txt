@@ -1,0 +1,50 @@
+  460  git push
+  461  git status
+  462  git add --all
+  463  git commit -m"Moved the starter code to the main directory"
+  464  git push
+  465  git status
+  466  git add --all
+  467  git commit -m"Wrote the code for the notebook"
+  468  git push
+  469  conda activate dev
+  470  jupyter lab
+  471  conda deactivate
+  472  cd onedrive/boot_camp/challenges/module_10_challenge
+  473  cd crypto-clustering
+  474  git status
+  475  git add --all
+  476  history 50 > terminal_history.txt
+  477  git status
+  478  git add terminal_history.txt
+  479  git commit -m"Edited the markdown for the notebook, wrote the README, added terminal_history.txt as proof of making commits from the terminal"
+  480  git push
+  481  conda activate dev
+  482  jupyter lab
+  483  conda deactivate
+  484  pip install prophet
+  485  cd onedrive/boot_camp/challenges/module_11_challenge
+  486  git clone git@github.com:lydiaciummo/time-series-forecasting.git
+  487  git status
+  488  ls
+  489  cd time-series-forecasting
+  490  git status
+  491  git add --all
+  492  git commit -m"Added the starter code to the repository"
+  493  git push
+  494  git status
+  495  git add --all
+  496  git commit -m"added some code to the notebook"
+  497  git push
+  498  conda activate dev
+  499  jupyter lab
+  500  conda deactivate
+  501  cd onedrive/boot_camp/challenges/module_11_challenge/time-series-forecasting
+  502  git status
+  503  git add --all
+  504  git commit -m"completed the code for the notebook"
+  505  git push
+  506  git status
+  507  git add --all
+  508  git status
+  509  history 50 > terminal_history.txt
